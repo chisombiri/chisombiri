@@ -2,7 +2,7 @@
 
 Im currently a Frontend Developer and Instructor: helping people acquire greater knowledge of Html, CSS and JavaScript.
 I'm an engineering major with a high passion for software development and design, as well as all the technology it brings to life.
-I have mastery of the latest and most important technologies: building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy
+I have mastery of the latest and most important technologies: building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
 In addition to my front end skills, I have an eye for good design as well.
 
 - 🔭 I’m currently working on a video sharing web app for gamers, as well as an e-commerce web app.
