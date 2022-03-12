@@ -11,4 +11,4 @@ In addition to my front end skills, I have an eye for good design as well.
 - 📫 How to reach me: https://www.linkedin.com/in/chisombiri-nlewedim-81570596/ 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I still want to meet Mark Zuckerberg and get him lunch some day.
-- 🏀 Probably play basketball with him also: I love basketball, when I'm not coding.
+- 🏀 Probably play basketball with him also: I love basketball, not any major team fan in th NBA but Giannis is GOAT
