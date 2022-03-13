@@ -10,5 +10,5 @@ In addition to my front end skills, I have an eye for good design as well.
 - 💬 Ask me about html, css, javascript, frontend development, react.
 - 📫 How to reach me: https://www.linkedin.com/in/chisombiri-nlewedim-81570596/ 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I still want to meet Mark Zuckerberg and get him lunch some day.
+- ⚡ Fun fact: I find coding relaxing sometimes, weird.
 - 🏀 I love basketball also!
