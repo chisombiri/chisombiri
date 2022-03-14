@@ -1,4 +1,4 @@
-### Hello World 🌎 I'm Chisombiri NLEWEDIM.
+### class ChisombiriNlewedim extends World.Human 🌎
 
 **What do I do with respect to tech?** I'm a Frontend Developer and Instructor.
 I have a high passion for software development and design, as well as all the technology it brings to life.
