@@ -1,5 +1,5 @@
 ### class ChisombiriNlewedim extends World.Human 🌎
-### export default ChisombiriNlewedim
+### export default ChisombiriNlewedim;
 
 **What's my current role in tech?** I'm a Frontend Developer and Instructor.
 I have a high passion for software development and design, as well as all the technology it brings to life.
