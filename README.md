@@ -13,5 +13,4 @@ In addition to my front end skills, I have an eye for good design as well.
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
 - ✈  I fancy planes and enjoy travelling by air; I still wonder if ANYONE can fly a plane? 🤔
-- 💻 I find coding relaxing sometimes, so it doesn't feel like work pressure.
 - 🏀 I love basketball also! 
