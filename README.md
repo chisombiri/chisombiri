@@ -12,5 +12,5 @@ In addition to my front end skills, I have an eye for good design as well.
 - 📫 How to reach me: https://www.linkedin.com/in/chisombiri-nlewedim-81570596/ 
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
-- ✈  I fancy planes and enjoy travelling by air; I still wonder if ANYONE can fly a plane? 🤔
+- ✈  I fancy planes and enjoy travelling by air; I wonder if I can fly a Boeing or Airbus someday 🤔
 - 🏀 I love basketball also! 
