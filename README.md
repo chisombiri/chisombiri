@@ -1,7 +1,7 @@
 ### class ChisombiriNlewedim extends World.Human 🌎
 ### export default ChisombiriNlewedim;
 
-**What's my current role in tech?** I'm a Frontend Developer and Instructor.
+**What's my current role in tech?** I'm a Frontend Developer / Engineer.
 I have a high passion for software development and design, as well as all the technology it brings to life.
 I've achieved mastery of the latest and most important web technologies. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
 In addition to my front end skills, I have an eye for good design as well.
