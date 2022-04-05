@@ -8,7 +8,7 @@ In addition to my web programming skills, I have an eye for good design as well.
 
 - 🔭 I’m currently working on a video sharing web app for gamers, as well as an e-commerce web app.
 - 👩🏻‍🤝‍🧑🏾 I’m looking to collaborate on any web project(website or web app).
-- 💬 Ask me about HTML, CSS, JavaScript, APIs, React, Node, Frontend Development.
+- 💬 Ask me about HTML, CSS, JavaScript, APIs, React, NodeJs(express).
 - 📫 How to reach me: https://www.linkedin.com/in/chisombiri-nlewedim-81570596/ 
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
