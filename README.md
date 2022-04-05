@@ -2,7 +2,9 @@
 ### export default ChisombiriNlewedim;
 
 **What's my current role in tech?** 
-**const Web Developer = 'a creative problem-solver with grit'.**
+
+**const webDeveloper = 'a creative problem-solver with grit'.**
+
 I have a high passion for software development and design, as well as all the technology it brings to life.
 I've achieved mastery of the latest and most important web technologies. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
 In addition to my web programming skills, I have an eye for good design as well.
