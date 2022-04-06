@@ -6,7 +6,7 @@
 **const webDeveloper = 'a creative problem-solver with grit.'**
 
 I have a high passion for software development and design, as well as all the technology it brings to life.
-I'm constatntly learning and aim to achieve mastery of the latest and most important web technologies. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
+I'm constatntly learning and aim to achieve mastery of the latest and most important web technologies as well as best practices(ranging from user experience to storing password securely with the best hashing packages). Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
 In addition to my web programming skills, I have an eye for good design, as well as Figma skills.
 
 - 🔭 I’m currently working on a video sharing web app for gamers, as well as an e-commerce web app.
