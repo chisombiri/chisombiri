@@ -12,7 +12,7 @@ In addition to my web programming skills, I have an eye for good design, as well
 - 🔭 I’m currently working on a video sharing web app for gamers, as well as a full e-commerce web app.
 - 👩🏻‍🤝‍🧑🏾 I’m looking to collaborate on any web project(website or web app).
 - 🤹🏾‍♀️ Tech Skills: HTML, CSS, JavaScript, APIs, React, NodeJs(express), SQL.
-- 📫 How to reach me: [LinkedIn][1] <a href="https://www.google.com/" target="_blank">Google</a>
+- 📫 How to reach me: [LinkedIn][1], [Twitter][2]
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
 - ✈  I fancy planes and enjoy travelling by air; I wonder if I can fly a Boeing or Airbus someday 🤔
@@ -20,3 +20,4 @@ In addition to my web programming skills, I have an eye for good design, as well
 
 
 [1]: https://www.linkedin.com/in/chisombiri-nlewedim-81570596/ "LinkedIn"
+[2]: https://twitter.com/chisombiri_n "Twitter"
