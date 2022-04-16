@@ -14,7 +14,7 @@ In addition to my web programming skills, I have an eye for good design, as well
 - 🤹🏾‍♀️ Tech Skills: HTML, CSS, JavaScript, APIs, React, NodeJs(express), SQL.
 - 📫 How to reach me: [Email me!](mailto:chisombiri@gmail.com); or connect with me on: [LinkedIn][1], [Twitter][2].
 - 😄 Pronouns: He/Him
--  Top projects so far: [Smarrt Brain AI](https://smarrt-brain.herokuapp.com/), [Roboguys](https://chisombiri.github.io/robofriends/), [Software Agency](https://chisombiri.github.io/Software_Agency/), [Tic-Tac-Toe](https://chisombiri-genius-crew.netlify.app/)
+-  Top projects deployed so far: [Smarrt Brain AI](https://smarrt-brain.herokuapp.com/), [Roboguys](https://chisombiri.github.io/robofriends/), [Software Agency](https://chisombiri.github.io/Software_Agency/), [Tic-Tac-Toe](https://chisombiri-genius-crew.netlify.app/)
 - ⚡ Fun facts: 
 - ✈  I fancy planes and enjoy travelling by air; I wonder if I can fly a Boeing or Airbus someday 🤔
 - 🏀 I love basketball also! 
