@@ -12,7 +12,7 @@ In addition to my web programming skills, I have an eye for good design, as well
 - 🔭 I’m currently working on a video sharing web app for gamers, as well as a full e-commerce web app.
 - 👩🏻‍🤝‍🧑🏾 I’m looking to collaborate on any web project(website, web app, PWA).
 - 🤹🏾‍♀️ Tech Skills: HTML, CSS, JavaScript, APIs, React, NodeJs(express), SQL.
-- 📫 How to reach me: [Email me!](mailto:chisombiri@gmail.com); or connect on: [LinkedIn][1], [Twitter][2].
+- 📫 How to reach me: [Email me!](mailto:chisombiri@gmail.com); or connect with me on: [LinkedIn][1], [Twitter][2].
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
 - ✈  I fancy planes and enjoy travelling by air; I wonder if I can fly a Boeing or Airbus someday 🤔
