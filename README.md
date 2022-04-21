@@ -9,7 +9,7 @@ I have a high passion for software development and design, as well as all the te
 I'm constantly learning and regularly aim to achieve mastery of the latest and most important web technologies as well as best practices. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
 In addition to my web programming skills, I have an eye for good design, as well as Figma skill.
 
-- 🔭 I’m currently working on a fully functional e-commerce web app, as well as a video sharing web app for gamers.
+- 🔭 I’m currently working on a fully functional e-commerce web app(REACT stack), as well as a video sharing web app for gamers(ANGULAR stack).
 - 👩🏻‍🤝‍🧑🏾 I’m looking to collaborate on any web project(website, web app, PWA).
 - 🤹🏾‍♀️ Tech Skills: HTML, CSS, SCSS, JavaScript, APIs, React, NodeJs(express), SQL.
 - 📫 How to reach me: [Email me!](mailto:chisombiri@gmail.com); or connect with me on: [LinkedIn][1], [Twitter][2].
