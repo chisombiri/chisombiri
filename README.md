@@ -5,7 +5,7 @@ import World from '🌎';
     return(
       <div>
         <h2> **What's my current role in tech?** </h2>
-        <p> {webDeveloper} </p>
+        <h3> {webDeveloper} </h3>
       </div>
     )
   }
