@@ -19,7 +19,7 @@ In addition to my web programming skills, I have an eye for good design, as well
 
 - 🔭 I’m currently working on a fully functional e-commerce web app, as well as a video sharing web app for gamers.
 - 👩🏻‍🤝‍🧑🏾 I’m looking to collaborate on any web project(website, web app, PWA).
-- 🤹🏾‍♀️ Major Tech Skills: HTML, CSS, SCSS, JavaScript, APIs, React, NodeJs(express), SQL.
+- 🤹🏾‍♀️ Major Tech Skills: HTML, CSS, SCSS, JavaScript, TypeScript, APIs, React, NodeJs(express), SQL.
 - 📫 How to reach me: [Email me!](mailto:chisombiri@gmail.com); or connect with me on: [LinkedIn][1], [Twitter][2].
 - 😄 Pronouns: He/Him
 - Check out some LIVE projects I've worked on so far: [Face Detection App](https://smarrt-brain.herokuapp.com/), [Tic-Tac-Toe](https://chisombiri-genius-crew.netlify.app/), [Roboguys](https://chisombiri.github.io/robofriends/), [Software Agency](https://chisombiri.github.io/Software_Agency/)
