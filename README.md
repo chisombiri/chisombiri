@@ -1,11 +1,8 @@
-###  
-        <div>
-        <h2> **What's my current role in tech?** </h2>
-        <h3> {webDeveloper, Frontend Engineer} </h3>
-        </div>
+###   **What's my current role in tech?** </h2>
+       { webDeveloper, Frontend Engineer } 
 
 I have a high passion for software development and design, as well as all the technology it brings to life.
-I'm constantly learning and regularly aim to achieve mastery of the latest and most important web technologies as well as best practices. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
+My consistent aim is to achieve mastery of the most important and latest web technologies as well as best practices. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
 In addition to my web programming skills, I have an eye for good design, as well as Figma skill.
 
 - 🔭 I’m currently working on a video sharing web app for gamers and rounding up on an e-commerce web app for clothing items built with react.
