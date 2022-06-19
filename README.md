@@ -1,7 +1,7 @@
 ###   **What's my current role in tech?** </h2>
        { webDeveloper, Frontend Engineer } 
 
-I have passion for software development and design, as well as all the technology it brings to life.
+I am highly intrigued by software development and design, as well as all the technology it brings to life.
 My consistent aim is to achieve mastery of the most important and latest web technologies as well as best practices. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
 In addition to my web programming skills, I have an eye for good design, as well as Figma skill.
 
