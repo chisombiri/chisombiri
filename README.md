@@ -7,7 +7,7 @@ In addition to my web programming skills, I have an eye for good design, as well
 
 - 🔭 I’m currently rounding up on an e-commerce web app with react.
 - 👩🏻‍🤝‍🧑🏾 I’m looking to collaborate on any web project(website, web app, PWA).
-- 🤹🏾‍♀️ Major Tech Skills: HTML, CSS, SCSS, JavaScript, React(Hooks, Redux, Jest), Firebase, TypeScript, APIs, NodeJs(express), SQL.
+- 🤹🏾‍♀️ Major Tech Skills: HTML, CSS, SCSS, Tailwind, JavaScript, React(Hooks, Redux, Jest), Firebase, TypeScript, APIs, NodeJs(express), SQL.
 - 📫 How to reach me: [Email me!](mailto:chisombiri@gmail.com); or connect with me on: [LinkedIn][1], [Twitter][2].
 - 😄 Pronouns: He/Him
 - Check out some LIVE projects I've worked on so far: [Dresshuup(e-commerce)](https://dresshuup.netlify.app/), [The Road](https://chisombiri.github.io/The_Road/), [Food Likly](https://chisombiri.github.io/food-likly/), [Face Detection App](https://smarrt-brain.herokuapp.com/), [Fancy Devs](https://fancy-devs.netlify.app/),  [Tic-Tac-Toe](https://chisombiri-genius-crew.netlify.app/), [Software Agency website](https://chisombiri.github.io/Software_Agency/)
