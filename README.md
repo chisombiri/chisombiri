@@ -5,7 +5,7 @@ I am highly intrigued by software development and design, as well as all the tec
 My consistent aim is to achieve mastery of the most important and latest web technologies as well as best practices. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
 In addition to my web programming skills, I have an eye for good design, as well as Figma skill.
 
-- 🔭 I’m currently rounding up on an e-commerce web app with react.
+- 🔭 Working on digital solutions that meet business needs; connect with your customers.
 - 👩🏻‍🤝‍🧑🏾 I’m looking to collaborate on any web project(website, web app, PWA).
 - 🤹🏾‍♀️ Major Tech Skills: HTML, CSS, SCSS, Tailwind, JavaScript, React(Hooks, Redux, Jest), APIs, NodeJs(express), Firebase, TypeScript, SQL, MongoDB.
 - 📫 How to reach me: [Email me!](mailto:chisombiri@gmail.com); or connect with me on: [LinkedIn][1], [Twitter][2].
