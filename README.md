@@ -1,5 +1,5 @@
 ###   **What's my current role in tech?** </h2>
-       { webDeveloper, Frontend Engineer } 
+       { Web Developer, Frontend Engineer } 
 
 I am highly intrigued by software development and design, as well as all the technology it brings to life.
 My consistent aim is to achieve mastery of the most important and latest web technologies as well as best practices. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
