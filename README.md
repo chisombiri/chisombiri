@@ -18,3 +18,6 @@ In addition to my web programming skills, I have an eye for good design, as well
 
 [1]: https://www.linkedin.com/in/chisombiri-nlewedim-81570596/ "LinkedIn"
 [2]: https://twitter.com/chisombiri_n "Twitter"
+
+
+#### WHat are my current roles in tech
