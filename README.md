@@ -21,3 +21,4 @@ In addition to my web programming skills, I have an eye for good design, as well
 
 
 #### WHat are my current roles in tech
+ <a href="" >  <img  src="linkedin.png" width="60" />  </a> 
