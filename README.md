@@ -11,7 +11,7 @@ In addition to my web programming skills, I have an eye for good design, as well
 - 📫 How to reach me: [Email me!](mailto:chisombiri@gmail.com); or connect with me on: 
 
 <p> 
-       <a href="https://www.linkedin.com/in/chisombiri-nlewedim" >  <img  src="linkedin.png" width="60" />  </a> 
+       <a href="https://www.linkedin.com/in/chisombiri-nlewedim" target="blank" >  <img  src="linkedin.png" width="60" />  </a> 
        <a href="https://twitter.com/chisombiri_n" >  <img  src="twitter.png" width="60" />  </a>  
 </p>
 
