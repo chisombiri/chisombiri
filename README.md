@@ -17,7 +17,7 @@ In addition to my web programming skills, I have an eye for good design, as well
 
 - 😄 Pronouns: He/Him
 
-- Check out some LIVE projects I've worked on so far: [Cryptware Systems](https://cryptwaresystems.com/), [Dresshuup(e-commerce)](https://dresshuup.netlify.app/), [QR code Generator](https://cryptware-qr-gen.netlify.app/), [Abj Stores Themed](https://abj-stores.netlify.app/), [Tasks Manager](https://chisom-tasks-manager.netlify.app/), [Architexx](https://architexx.netlify.app/), [SaaS Pricing](https://courageous-klepon-e00fb5.netlify.app/), [The Road](https://chisombiri.github.io/The_Road/), [Eric Lee's birthday](https://timely-treacle-f54b3c.netlify.app/), [Animated Authentication](https://chisom-animated-login.netlify.app/), [Tic-Tac-Toe](https://chisombiri-genius-crew.netlify.app/)
+- Check out some LIVE projects I've worked on so far: [Cryptware Systems](https://cryptwaresystems.com/), [Dresshuup(e-commerce)](https://dresshuup.netlify.app/), [QR code Generator](https://cryptwareqr.netlify.app/), [Abj Stores Themed](https://abj-stores.netlify.app/), [Tasks Manager](https://chisom-tasks-manager.netlify.app/), [Architexx](https://architexx.netlify.app/), [SaaS Pricing](https://courageous-klepon-e00fb5.netlify.app/), [The Road](https://chisombiri.github.io/The_Road/), [Eric Lee's birthday](https://timely-treacle-f54b3c.netlify.app/), [Animated Authentication](https://chisom-animated-login.netlify.app/), [Tic-Tac-Toe](https://chisombiri-genius-crew.netlify.app/)
 
 - ⚡ Fun facts: 
 - ✈  I fancy aircrafts and love travelling by air!
