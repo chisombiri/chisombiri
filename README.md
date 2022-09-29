@@ -7,7 +7,7 @@ In addition to my web programming skills, I have an eye for good design, as well
 
 - 🔭 Working on digital solutions that meet business needs; connect with your customers.
 - 👩🏻‍🤝‍🧑🏾 I’m looking to collaborate on any web project(website, web app, PWA).
-- 🤹🏾‍♀️ Major Tech Skills: ReactJS ecosystem, HTML, CSS, SCSS, Tailwind, JavaScript, Shopify, APIs, NodeJs(Express), Firebase, TypeScript, SQL, DB.
+- 🤹🏾‍♀️ Major Tech Skills: ReactJS(Redux, GraphQL), HTML, CSS, SCSS, Tailwind, JavaScript, Shopify, APIs, NodeJs(Express), Firebase, TypeScript, SQL, DB.
 - 📫 How to reach me: [Email me!](mailto:chisombiri@gmail.com); or connect with me on: 
 
 <p> 
