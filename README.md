@@ -3,7 +3,7 @@
 
 I am highly intrigued by software development and design, as well as all the technology it brings to life.
 My consistent aim is to achieve mastery of the most important and latest web technologies as well as best practices. Building state-of-the-art, easy to use, user-friendly websites and applications is what I enjoy.
-In addition to my web programming skills, I have an eye for good design, as well as Figma skill.
+In addition to my web programming skills, I have Figma design skill.
 
 - 🔭 Working on digital solutions that meet business needs; connect with your customers.
 - 👩🏻‍🤝‍🧑🏾 I’m looking to collaborate on any web project(website, web app, PWA).
