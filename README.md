@@ -21,4 +21,4 @@ In addition to my web programming skills, I have Figma design skill.
 
 - ⚡ Fun facts: 
 - ✈  I fancy aircrafts and love travelling by air!
-- 🏀 I love basketball; I once wished I was in the NBA! 
+- 🏀 I enjoy the game of basketball! 
